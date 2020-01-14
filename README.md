@@ -38,3 +38,5 @@ hyper
 solaar
 easy to stroke
 cross ftp
+
+https://www.karelie.net/install-ibus-mozc/

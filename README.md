@@ -30,6 +30,7 @@ chrome
 slack
 wps
 ubuntu mainline kernel installer
+https://github.com/bkw777/mainline
 synaptic
 terminator
 github desktop
